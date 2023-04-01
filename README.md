@@ -1,8 +1,14 @@
 # Optimizing-Online-Sports-Retail-Revenue-
+In this project we analyze a dataset using SQL
+
+* Download the csv file.
+* Import the file to MySQL
+* Exploratory Data Analysis 
 
 
+# Steps taken while analyzing this dataset: 
 
-1. Counting missing values
+1. Find/Count missing values
 2. Nike vs Adidas pricing
 3. Labeling price ranges
 4. Average discount by brand
